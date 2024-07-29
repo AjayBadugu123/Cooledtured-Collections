@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "subheading": "Presale",
+    "heading": "New Collection",
+    "description": "Explore One Piece latest Centennial Collection\nExclusively in our new collection",
+    "ctaLink": "https://animetoy.store/search?q=one%20piece",
+    "ctaText": "Shop Now",
+    "image": "/images/featured_fandoms/slideFeaturedImgs/img1.png"
+  },
+    {
+    "id": 2,
+    "subheading": "Presale",
+    "heading": "Best Sellers",
+    "description": "Discover the Hottest Picks in our \nBest Sellers!",
+    "ctaLink": "https://animetoy.store/search?q=naruto",
+    "ctaText": "Shop Bestsellers",
+    "image": "/images/featured_fandoms/slideFeaturedImgs/img2.png"
+  },
+  {
+    "id": 3,
+    "subheading": "Presale",
+    "heading": "Holiday Special",
+    "description": "Dive into Festive Delights with Our\nHoliday Special Collection!",
+    "ctaLink": "https://animetoy.store/search?q=demon%20slayer",
+    "ctaText": "Shop Collection",
+    "image": "/images/featured_fandoms/slideFeaturedImgs/img3.png"
+  }
+]

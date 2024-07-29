@@ -1,0 +1,18 @@
+[
+    {
+      "message":
+        "We're launching a new product! Stay tuned for more information.",
+      "link": "/new-product",
+      "linkText": "Learn more"
+    },
+    {
+      "message": "Join us for our annual conference next month.",
+      "link": "/conference",
+      "linkText": "Sign up now"
+    },
+    {
+      "message": "Our latest blog post is out! Discover the latest trends.",
+      "link": "/blog",
+      "linkText": "Read our blog"
+    }
+  ]
